@@ -1,0 +1,64 @@
+
+########## start state ########## 
+engine inlet:	0.31064 kg/s 	288.15 K 	101.32500 kPa 
+Compressor inlet:	0.31064 kg/s 	288.15 K 	100.81838 kPa 
+Combustor inlet:	0.31064 kg/s 	403.57 K 	278.22805 kPa 
+Mixer inlet:	0.31281 kg/s 	1130.00 K 	264.31665 kPa 
+Turbine inlet:	0.31281 kg/s 	1130.00 K 	264.05233 kPa 
+Nozzle inlet:	0.31281 kg/s 	932.68 K 	104.78145 kPa 
+Engine outlet:	0.31281 kg/s 	932.68 K 	104.25754 kPa 
+  
+Engine massflow:   0.31064 kg/s 
+Engine Work:       37.94199 kw 
+Engine Efficiency: 0.14550  
+Engine Fuleflow:   0.00217 kg/s 
+Engine SFC:        0.20620 kg/(kwh) 
+Engine nl:         73816.08000 rpm 
+Engine Thrust:     38.67536 N 
+Engine outlet Ps:  101325.00000 Pa 
+Engine outlet V:   126.16078 m/s 
+  
+Compressor Gdot: 0.62838  nldot: 0.77897 
+Compressor pi:   2.77356   eff:   0.83794 
+Compressor work: 36.37470 kw 
+Turbine    Gdot: 1.0084065596  nldot: 0.7239538192 
+Turbine    pi:   2.5149892913  eff:   0.8577946552 
+Turbine    work: 75.06737 kw 
+  
+Engine Gratio: 0.62365  nlratio: 0.78000 
+  
+engine inlet:	0.32449 kg/s 	288.15 K 	101.32500 kPa 
+Compressor inlet:	0.32449 kg/s 	288.15 K 	100.81838 kPa 
+Combustor inlet:	0.32449 kg/s 	408.64 K 	289.75267 kPa 
+Mixer inlet:	0.32674 kg/s 	1130.00 K 	275.26504 kPa 
+Turbine inlet:	0.32674 kg/s 	1130.00 K 	274.98977 kPa 
+Nozzle inlet:	0.32674 kg/s 	924.26 K 	105.02072 kPa 
+Engine outlet:	0.32675 kg/s 	924.26 K 	104.49562 kPa 
+  
+Engine massflow:   0.32449 kg/s 
+Engine Work:       41.19430 kw 
+Engine Efficiency: 0.15228  
+Engine Fuleflow:   0.00225 kg/s 
+Engine SFC:        0.19702 kg/(kwh) 
+Engine nl:         75708.80000 rpm 
+Engine Thrust:     41.77965 N 
+Engine outlet Ps:  101325.00000 Pa 
+Engine outlet V:   130.47550 m/s 
+  
+Compressor Gdot: 0.65640  nldot: 0.79894 
+Compressor pi:   2.88845   eff:   0.83945 
+Compressor work: 39.67496 kw 
+Turbine    Gdot: 1.0112853047  nldot: 0.7426215054 
+Turbine    pi:   2.6131965142  eff:   0.8621997175 
+Turbine    work: 81.68613 kw 
+  
+Engine Gratio: 0.65146  nlratio: 0.80000 
+  
+step:1  time:0.000s  nl:73816.1rpm  nlratio:0.780  Gratio:0.624  G:0.311kg/s  Weng:37941.988w  Wgen:37941.989w  Gfuel:2.173g/s  T4:1130.00K 
+step:2  time:0.010s  nl:73816.1rpm  nlratio:0.780  Gratio:0.624  G:0.311kg/s  Weng:37941.988w  Wgen:37941.988w  Gfuel:2.173g/s  T4:1130.00K 
+step:3  time:0.020s  nl:73816.1rpm  nlratio:0.780  Gratio:0.624  G:0.311kg/s  Weng:37941.988w  Wgen:37941.988w  Gfuel:2.173g/s  T4:1130.00K 
+step:4  time:0.030s  nl:73816.1rpm  nlratio:0.780  Gratio:0.624  G:0.311kg/s  Weng:37941.988w  Wgen:37941.988w  Gfuel:2.173g/s  T4:1130.00K 
+step:5  time:0.040s  nl:73816.1rpm  nlratio:0.780  Gratio:0.624  G:0.311kg/s  Weng:37941.988w  Wgen:37941.988w  Gfuel:2.173g/s  T4:1130.00K 
+step:6  time:0.050s  nl:73816.1rpm  nlratio:0.780  Gratio:0.624  G:0.311kg/s  Weng:37941.988w  Wgen:37941.988w  Gfuel:2.173g/s  T4:1130.00K 
+step:7  time:0.060s  nl:73816.1rpm  nlratio:0.780  Gratio:0.624  G:0.311kg/s  Weng:37941.988w  Wgen:37941.988w  Gfuel:2.173g/s  T4:1130.00K 
+step:8  time:0.070s  nl:73816.1rpm  nlratio:0.780  Gratio:0.624  G:0.311kg/s  Weng:37941.988w  Wgen:37941.988w  Gfuel:2.173g/s  T4:1130.00K 
